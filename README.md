@@ -1,1 +1,1 @@
-#Praxis
+# Data Praxis Academy
