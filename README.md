@@ -1,1 +1,1 @@
-# Data Praxis Academy
+# Repository Praxis-academy
